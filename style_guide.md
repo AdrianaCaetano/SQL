@@ -1,6 +1,6 @@
-*Copied from [**DBT Style Guide**](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md)) *
+*Copied from [**DBT Style Guide**](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md) *
 
-# dbt Style Guide
+# DBT Style Guide 
 
 ## Model Organization  
 Our models (typically) fit into two main categories:
